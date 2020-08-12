@@ -1,5 +1,5 @@
 {
-    "name": "govworksllc/laravel-intl",
+    "name": "propaganistas/laravel-intl",
     "description": "Easy to use internationalization functions for Laravel",
     "keywords": [
         "laravel",
@@ -20,10 +20,10 @@
         "illuminate/events": "^5.8|^6.0|^7.0",
         "illuminate/support": "^5.8|^6.0|^7.0",
         "nesbot/carbon": "^2.0",
-        "commerceguys/intl": "^1.0.6",
+        "commerceguys/intl": "^1.0.1",
         "umpirsky/country-list": "^2.0",
         "umpirsky/locale-list": "^1.0",
-        "punic/punic": "^3.5"
+        "punic/punic": "^3.1"
     },
     "require-dev": {
         "orchestra/testbench": "*",
